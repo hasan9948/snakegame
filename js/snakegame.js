@@ -49,7 +49,7 @@ if(gameovergame())
  snakebody=[{x:10,y:10}]
         backgroundmusic.play()
         score=0
-        // scorehtml.innerHTML="score :"+score
+        scorehtml.innerHTML="score :"+score
   
 }
 
