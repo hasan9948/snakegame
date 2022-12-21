@@ -1,2 +1,2 @@
 # snakegame
- using html ,css , vanilla javascript
+ using html ,css , vanilla javascript   
