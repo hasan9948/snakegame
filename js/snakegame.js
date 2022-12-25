@@ -1,4 +1,4 @@
-const speed=4
+const speed=6
 let lastrendertime=0
 let snakebody=[{x:10,y:10}]
 let food={x:5,y:6}
